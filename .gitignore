@@ -1,6 +1,3 @@
-# Carpetas nativas (si usas prebuild)
-/android
-/ios
 
 # Dependencies
 node_modules/
